@@ -1,0 +1,6 @@
+{
+  "name": "Remind by Shivam",
+  "description": "Smart reminder and alarm clock app with voice alerts, custom sounds, snooze, recurring schedules, and dual Hindi/English interface.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
